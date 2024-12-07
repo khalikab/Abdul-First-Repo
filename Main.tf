@@ -9,3 +9,9 @@ resource "azurerm_resource_group" "Rg2" {
   location = "East US"
   
 }
+
+resource "azurerm_resource_group" "RG3" {
+  name     = "Noorafsha"
+  location = "East US"
+  
+}
